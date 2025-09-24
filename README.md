@@ -10,7 +10,7 @@ Make sure you have the following installed on your system:
 
 * PHP >= 8.x
 * Composer
-* Node.js & npm/yarn
+* Node.js & npm
 * MySQL
 
 ---
