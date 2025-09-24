@@ -112,13 +112,6 @@ php artisan config:cache
 
 ---
 
-## Notes
-
-* Ensure your API key is valid and has enough quota.
-* If using Livewire components, keep both `php artisan serve` and `npm run dev` running for hot reloading.
-
----
-
 ## License
 
 This project is licensed under the MIT License.
